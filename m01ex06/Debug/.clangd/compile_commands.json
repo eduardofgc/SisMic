@@ -1,0 +1,7 @@
+[
+   {
+      "directory" : "/home/eduardofgc/workspace_ccstheia/m01ex06/Debug",
+      "command"   : "clang++ -I\"/home/eduardofgc/ti/ccs2100/ccs/ccs_base/msp430/include\" -I\"/home/eduardofgc/workspace_ccstheia/m01ex06\" -I\"/home/eduardofgc/ti/ccs2100/ccs/tools/compiler/ti-cgt-msp430_21.6.2.LTS/include\" -D__MSP430F5529__",
+      "file"      : "/home/eduardofgc/workspace_ccstheia/m01ex06/m01ex06.asm"
+   }
+]

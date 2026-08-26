@@ -1,0 +1,4 @@
+"./p01_2026-1_ex02.obj"
+"../lnk_msp430f5529.cmd"
+-llibmath.a
+-llibc.a
