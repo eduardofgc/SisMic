@@ -12,10 +12,10 @@ Microprocessados e de Laboratório de Sistemas Microprocessados.
 └── Provas Antigas/
 ```
 
-### `Lab SisMic`
+### `Lab SisMic/`
 Vistos de Laboratório de Sistemas Microprocessados.
 
-### `Módulo 1/2/3`
+### `Módulos 1, 2 e 3/`
 Exercícios de cada módulo.
 
 ### `Provas Antigas`
