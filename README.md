@@ -15,10 +15,10 @@ Microprocessados e de Laboratório de Sistemas Microprocessados.
 ### `Lab SisMic/`
 Vistos de Laboratório de Sistemas Microprocessados.
 
-### `Módulos 1, 2 e 3/`
+### `Módulo/`
 Exercícios de cada módulo.
 
-### `Provas Antigas`
+### `Provas Antigas/`
 Questões resolvidas de provas anteriores de Sistemas Microprocessados.
 
 - **Aluno:** Eduardo Rocha Biagini
