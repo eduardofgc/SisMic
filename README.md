@@ -24,4 +24,4 @@ Questões resolvidas de provas anteriores de Sistemas Microprocessados.
 
 - **Aluno:** Eduardo Rocha Biagini
 - **Professor (SisMic):** Eduardo Peixoto
-- **Professor (ED):** Eduardo Paiva
+- **Professor (Lab SisMic):** Eduardo Paiva
