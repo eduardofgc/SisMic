@@ -1,7 +1,8 @@
 # Material
 
 Repositório com códigos e implementações desenvolvidos nas disciplinas de Sistemas 
-Microprocessados e de Laboratório de Sistemas Microprocessados.
+Microprocessados e de Laboratório de Sistemas Microprocessados. O microcontrolador 
+utilizado foi o MSP-EXP430F5529LP.
 
 ```
 .
